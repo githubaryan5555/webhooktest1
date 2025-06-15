@@ -24,4 +24,4 @@ def ping_discord():
 if __name__ == "__main__":
     while True:
         ping_discord()
-        time.sleep(10)
+        time.sleep(1)
